@@ -5,5 +5,5 @@ Welcome to my LeetCode solutions repository! Here you'll find Python solutions t
 ## Problems Solved
 
 - [140. Word Break II](140.Word_Break_II/README.md)
-
+- [552. Student Attendance Record II](552.Student_Attendance_Record_II/README.md)
 Stay tuned for more solutions as I continue to solve LeetCode problems in Python!
