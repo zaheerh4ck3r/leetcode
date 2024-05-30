@@ -10,7 +10,7 @@ Welcome to my LeetCode solutions repository! Here you'll find Python solutions t
 - [1608. Special Array With X Elements Greater Than or Equal X Solution](1608.Special_Array_With_X_Elements_Greater_Than_or_Equal_X/README.md)
 - [1208. Get Equal Substrings Within Budget](1208.Get_Equal_Substrings_Within_Budget/README.md)
 - [1404. Number of Steps to Reduce a Number in Binary Representation to One](1404.Number_of_steps_to_Reduce_a_Number_in_Binary_Representation_to_One/README.md)
-
+- [1442.Count Triplets That Can Form Two Arrays of Equal XOR](1442.Count_Triplets_That_Can_Form_Two_Arrays_of_Equal_XOR)
 
 Stay tuned for more solutions as I continue to solve LeetCode problems in Python!
 
