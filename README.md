@@ -16,6 +16,7 @@ Welcome to my LeetCode solutions repository! Here you'll find Python solutions t
 - [344. Reverse String](344.Reverse_String/README.md)
 - [2486. Append Characters to String to Make Subsequence](2486.Append_Characters_to_String_to_Make_Subsequence/README.md)
 - [409. Longest Palindrome](409.Longest_Palindrome/solution.md)
+- [1022. Find Common Characters](1002.Find_Common_Characters/README.md)
 
 Stay tuned for more solutions as I continue to solve LeetCode problems in Python!
 
