@@ -18,5 +18,6 @@ Welcome to my LeetCode solutions repository! Here you'll find Python solutions t
 - [409. Longest Palindrome](409.Longest_Palindrome/solution.md)
 - [1022. Find Common Characters](1002.Find_Common_Characters/README.md)
 - [1653. Minimum Deletions to Make String Balanced](1653.Minimum_Deletions_to_Make_String_Balanced/solution.md)
+- [2134. Minimum Swaps to Group All 1's Together II](2134.Minimum_Swaps_to_Group_All_1s_Together_II/README.md)
 Stay tuned for more solutions as I continue to solve LeetCode problems in Python!
 
