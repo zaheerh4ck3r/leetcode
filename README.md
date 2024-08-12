@@ -21,5 +21,6 @@ Welcome to my LeetCode solutions repository! Here you'll find Python solutions t
 - [2134. Minimum Swaps to Group All 1's Together II](2134.Minimum_Swaps_to_Group_All_1s_Together_II/README.md)
 - [1460. Make Two Arrays Equal by Reversing Subarrays](1460.Make_Two_Arrays_Equal_by_Reversing_Subarrays/README.md)
 - [1568. Minimum Number of Days to Disconnect Island](1568.Minimum_Number_of_Days_to_Disconnect_Island/README.md)
+- [703.Kth Largest Element in a Stream](703.Kth_Largest_Element_in_a_Stream/README.md)
 Stay tuned for more solutions as I continue to solve LeetCode problems in Python!
 
