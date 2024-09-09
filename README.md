@@ -22,5 +22,7 @@ Welcome to my LeetCode solutions repository! Here you'll find Python solutions t
 - [1460. Make Two Arrays Equal by Reversing Subarrays](1460.Make_Two_Arrays_Equal_by_Reversing_Subarrays/README.md)
 - [1568. Minimum Number of Days to Disconnect Island](1568.Minimum_Number_of_Days_to_Disconnect_Island/README.md)
 - [703.Kth Largest Element in a Stream](703.Kth_Largest_Element_in_a_Stream/README.md)
+- [590. N-ary Tree Postorder Traversal](590.N-ary_Tree_Postorder_Traversal/README.md)
+- [2326. Spiral Matrix IV](2326.Spiral_Matrix_IV/README.md)
 Stay tuned for more solutions as I continue to solve LeetCode problems in Python!
 
