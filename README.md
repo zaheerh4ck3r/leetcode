@@ -24,5 +24,6 @@ Welcome to my LeetCode solutions repository! Here you'll find Python solutions t
 - [703.Kth Largest Element in a Stream](703.Kth_Largest_Element_in_a_Stream/README.md)
 - [590. N-ary Tree Postorder Traversal](590.N-ary_Tree_Postorder_Traversal/README.md)
 - [2326. Spiral Matrix IV](2326.Spiral_Matrix_IV/README.md)
+- [16. 3Sum Closest](16.3Sum_Closest/README.md)
 Stay tuned for more solutions as I continue to solve LeetCode problems in Python!
 
